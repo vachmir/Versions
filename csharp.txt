@@ -2,4 +2,4 @@ class
 delegate
 method
 
-class{}
+class{} body
